@@ -1,116 +1,127 @@
+<h1 align="center">✨ <b>Shivam Mishra</b> ✨</h1>
+<p align="center">
+  <b>Full-Stack Developer 🚀 | Data Science Enthusiast 📊 | Coding Passionate 🔥</b>
+</p>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoRKslHVtqgM/giphy.gif" alt="Welcome" width="100" />
-  <h1>Hi there 👋 I'm <b>Shivam Mishra</b></h1>
-  <p>Full-Stack Developer 🚀 | Web Dev Enthusiast 💻 | Data Analytics Explorer 📊</p>
-  
-  <div>
-    <a href="https://github.com/shiv9918?tab=repositories">
-      <img src="https://img.shields.io/badge/GitHub-View%20Repos-blue?style=for-the-badge&logo=github" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/shivam-mishra">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="mailto:shivammishra01329@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
-    </a>
-  </div>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=shiv9918&style=flat-square&color=blue" alt="" />
-  </p>
+  <img src="https://media.giphy.com/media/SWoRKslHVtqgM/giphy.gif" alt="Wave" width="100" />
+  <br/><br/>
+  <a href="https://github.com/shiv9918?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐_GITHUB-View%20All%20Repos-9945FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/shivam-mishra">
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shivammishra01329@gmail.com">
+    <img src="https://img.shields.io/badge/📧_EMAIL-Contact%20Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=shiv9918&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
 
 ## 🎯 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/QTfW0nVQHKn5QbPP63/giphy.gif" alt="Coding" />
+<img align="right" width="350" src="https://media.giphy.com/media/QTfW0nVQHKn5QbPP63/giphy.gif" alt="Coding" />
 
-- 🔥 **Passionate Full-Stack Developer** building innovative web solutions
-- 📚 **Computer Science Student** with intensive upskilling focus
-- 💼 **Seeking Internships** at product-based companies (Data Science, ML, Full-Stack roles)
-- 📍 **Based in India** | Open to Noida, Delhi, Lucknow, or Remote positions
-- 🎓 Currently pursuing **Computer Science degree** with 231+ GitHub contributions
-- 🤝 Open to collaborations, mentorship, and learning opportunities
+```
+🔥 FULL-STACK DEVELOPER
+├─ 📱 Frontend: React, JavaScript, HTML5, CSS3
+├─ 🔧 Backend: Node.js, Python, SQL
+├─ 📊 Data: Power BI, Machine Learning, Analytics
+├─ 🎯 Location: India 🇮🇳 (Noida, Delhi, Lucknow, Remote)
+├─ 📈 GitHub: 231+ Contributions | 6+ Projects
+└─ 💼 Target: Internship @ Top Product-Based Companies
+```
 
-📧 **Email**: shivammishra01329@gmail.com
+✨ **Currently**: Pursuing Computer Science with intensive upskilling  
+🚀 **Seeking**: Full-Stack, Data Science & ML Internships  
+📧 **Email**: [shivammishra01329@gmail.com](mailto:shivammishra01329@gmail.com)  
+
+<br clear="right" />
 
 ---
 
-## 💡 Tech Stack
+## 💡 Tech Arsenal
 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-00AA00?style=for-the-badge&logo=web&logoColor=white)
+### 🎨 Frontend Mastery
+```
+┌─────────────────────────────────────────────────────┐
+│  HTML5  │  CSS3  │  JavaScript  │  React  │  Responsive  │
+└─────────────────────────────────────────────────────┘
+```
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### ⚙️ Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```
+┌────────────────────────────────────────────────────┐
+│  Python  │  Node.js  │  SQL  │  Git  │  APIs  │
+└────────────────────────────────────────────────────┘
+```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📊 Data & Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-F2CC0C?style=for-the-badge&logo=power-bi&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/ML-Regression%20%26%20Classification-blue?style=for-the-badge&logo=tensorflow)
-![Data Visualization](https://img.shields.io/badge/Data%20Viz-Python%20%26%20BI-green?style=for-the-badge&logo=plotly)
-![Statistical Analysis](https://img.shields.io/badge/Statistics-Cross%20Validation-red?style=for-the-badge&logo=r)
+```
+┌────────────────────────────────────────────────────────────┐
+│  Power BI  │  Machine Learning  │  Data Viz  │  Statistics  │
+└────────────────────────────────────────────────────────────┘
+```
+![Power BI](https://img.shields.io/badge/Power%20BI-F2CC0C?style=flat-square&logo=power-bi&logoColor=black) ![ML](https://img.shields.io/badge/ML-Regression-blue?style=flat-square&logo=tensorflow) ![DataViz](https://img.shields.io/badge/DataViz-Plotly-green?style=flat-square)
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Showcase
 
 <table>
 <tr>
   <td width="50%" align="center">
-    <h3>📝 <a href="https://github.com/shiv9918/LeetMatrices">LeetMatrices</a></h3>
+    <h3>📝 LeetMatrices</h3>
     <p><b>JavaScript</b></p>
-    <p>🎯 Comprehensive coding practice platform</p>
-    <p>✨ Algorithm optimization & DSA problems</p>
+    <p>💪 Algorithm Optimization</p>
+    <p>⚡ DSA Problems Solved</p>
     <a href="https://github.com/shiv9918/LeetMatrices">
-      <img src="https://img.shields.io/badge/View%20Code-blue?style=flat-square&logo=github" />
+      <img src="https://img.shields.io/badge/→_View_Code-00D9FF?style=for-the-badge&logo=github" />
     </a>
   </td>
   <td width="50%" align="center">
-    <h3>🔐 <a href="https://github.com/shiv9918/PassWord-Manager">Password-Manager</a></h3>
+    <h3>🔐 Password-Manager</h3>
     <p><b>JavaScript</b></p>
-    <p>🎯 Secure password management system</p>
-    <p>✨ Encryption & data security</p>
+    <p>💪 Secure Encryption</p>
+    <p>⚡ Data Protection</p>
     <a href="https://github.com/shiv9918/PassWord-Manager">
-      <img src="https://img.shields.io/badge/View%20Code-blue?style=flat-square&logo=github" />
+      <img src="https://img.shields.io/badge/→_View_Code-00D9FF?style=for-the-badge&logo=github" />
     </a>
   </td>
 </tr>
 <tr>
   <td width="50%" align="center">
-    <h3>📐 <a href="https://github.com/shiv9918/Maths-Teacher">Maths-Teacher</a></h3>
+    <h3>📐 Maths-Teacher</h3>
     <p><b>CSS & Interactive</b></p>
-    <p>🎯 Educational learning platform</p>
-    <p>✨ Interactive mathematics tools</p>
+    <p>💪 Education Platform</p>
+    <p>⚡ Interactive Tools</p>
     <a href="https://github.com/shiv9918/Maths-Teacher">
-      <img src="https://img.shields.io/badge/View%20Code-blue?style=flat-square&logo=github" />
+      <img src="https://img.shields.io/badge/→_View_Code-00D9FF?style=for-the-badge&logo=github" />
     </a>
   </td>
   <td width="50%" align="center">
-    <h3>💻 <a href="https://github.com/shiv9918/Leetcode-Practices">Leetcode-Practices</a></h3>
+    <h3>💻 Leetcode-Practices</h3>
     <p><b>C++</b></p>
-    <p>🎯 DSA problem solutions</p>
-    <p>✨ Multiple approaches & optimization</p>
+    <p>💪 DSA Solutions</p>
+    <p>⚡ Multi-Approach</p>
     <a href="https://github.com/shiv9918/Leetcode-Practices">
-      <img src="https://img.shields.io/badge/View%20Code-blue?style=flat-square&logo=github" />
+      <img src="https://img.shields.io/badge/→_View_Code-00D9FF?style=for-the-badge&logo=github" />
     </a>
   </td>
 </tr>
 <tr>
-  <td width="50%" align="center" colspan="2">
-    <h3>🧪 <a href="https://github.com/shiv9918/exam-spark">exam-spark</a></h3>
+  <td colspan="2" align="center">
+    <h3>🧪 exam-spark</h3>
     <p><b>TypeScript</b></p>
-    <p>🎯 Smart exam preparation & analytics tool</p>
-    <p>✨ Performance tracking & insights</p>
+    <p>💪 Exam Preparation</p>
+    <p>⚡ Analytics & Insights</p>
     <a href="https://github.com/shiv9918/exam-spark">
-      <img src="https://img.shields.io/badge/View%20Code-blue?style=flat-square&logo=github" />
+      <img src="https://img.shields.io/badge/→_View_Code-00D9FF?style=for-the-badge&logo=github" />
     </a>
   </td>
 </tr>
@@ -118,61 +129,67 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv9918&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shiv9918&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shiv9918&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=shiv9918&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv9918&theme=dark&layout=compact&hide_border=true" alt="Top Languages" width="50%" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv9918&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 🎖️ Key Achievements
+## 🎖️ Achievements & Milestones
 
-✅ **231+ GitHub Contributions** in the last year  
-✅ **6+ Public Repositories** with diverse projects  
-✅ **Full-Stack Projects** deployed from concept to deployment  
-✅ **ATS-Optimized Resume** with 90%+ keyword matching for top companies  
-✅ **20+ Paid Internship Applications** with strong technical matches  
-✅ **DSA Mastery** with multiple problem patterns and optimizations  
-✅ **Strong GitHub Presence** with meaningful contributions  
+<div align="center">
+
+| Achievement | Details |
+|:---:|:---:|
+| 🔥 **Contributions** | 231+ in the last year |
+| 📚 **Projects** | 6+ public repositories |
+| ✅ **ATS Score** | 90%+ keyword optimized |
+| 🎯 **Applications** | 20+ paid internships |
+| 🏆 **Mastery** | DSA & Full-Stack |
+
+</div>
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Learning Journey
 
-<img align="left" width="300" src="https://media.giphy.com/media/kafqKkJf0y1FW/giphy.gif" alt="Learning" />
+<img align="left" width="350" src="https://media.giphy.com/media/kafqKkJf0y1FW/giphy.gif" alt="Learning" />
 
-- 🔄 **Advanced DSA** with problem pattern approach
-- 🛣️ **Computer Networks** fundamentals (OSI model, TCP/IP)
-- 🔧 **Compiler Design** (Parsing, LL parsers, LR parsers)
-- 📊 **Power BI** advanced analytics & dashboards
-- 🤖 **Machine Learning** (Logistic Regression, Linear Regression, Cross-Validation)
-- 🏗️ **System Design** principles & architecture patterns
-- 💾 **Database Optimization** & query performance
+### Currently Mastering:
+
+🔄 **Advanced DSA** → Problem patterns & optimization  
+🛣️ **Computer Networks** → OSI Model, TCP/IP protocols  
+🔧 **Compiler Design** → LL parsers, LR parsers  
+📊 **Power BI** → Advanced dashboards & analytics  
+🤖 **Machine Learning** → Regression, Classification  
+🏗️ **System Design** → Architecture & scalability  
+💾 **Database Optimization** → Query performance  
 
 <br clear="left" />
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect!
 
 <div align="center">
   <a href="https://linkedin.com/in/shivam-mishra">
-    <img src="https://img.shields.io/badge/LinkedIn-Shivam%20Mishra-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Shivam_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/shiv9918">
-    <img src="https://img.shields.io/badge/GitHub-shiv9918-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-shiv9918-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:shivammishra01329@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-shivammishra01329@gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-shivammishra01329@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://leetcode.com/u/Shiv_9918/">
-    <img src="https://img.shields.io/badge/LeetCode-Shiv__9918-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Shiv__9918-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </div>
 
@@ -180,53 +197,35 @@
 
 ## 💬 Open To Opportunities
 
-🎯 **Full-Stack Development Internships** - React, Node.js, Python  
-🎯 **Data Science & ML Roles** - Regression, Classification, Analytics  
-🎯 **Backend Development** - Database design, API development  
-🎯 **Open Source Contributions** - Learning & collaboration  
-🎯 **Mentorship & Learning** - From experienced developers  
+🎯 **Full-Stack Internships** (React, Node.js, Python)  
+🎯 **Data Science Roles** (ML, Analytics, BI)  
+🎯 **Backend Development** (APIs, Databases)  
+🎯 **Open Source** (Contributing & Learning)  
+🎯 **Mentorship** (From experienced developers)  
 
 ---
 
-## ⚡ Quick Facts
+## ⚡ Quick Traits
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <h3>🔥 Passionate Coder</h3>
-        <p>Building scalable solutions with clean code</p>
-      </td>
-      <td align="center" width="200">
-        <h3>📈 Growth Mindset</h3>
-        <p>Committed to continuous learning & improvement</p>
-      </td>
-      <td align="center" width="200">
-        <h3>🎯 Goal-Driven</h3>
-        <p>Landing competitive roles at top companies</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
-        <h3>💡 Problem Solver</h3>
-        <p>DSA optimization & system design</p>
-      </td>
-      <td align="center" width="200">
-        <h3>🤖 Tech Explorer</h3>
-        <p>Always exploring new technologies & frameworks</p>
-      </td>
-      <td align="center" width="200">
-        <h3>🌱 Full-Stack Master</h3>
-        <p>Mastering end-to-end development</p>
-      </td>
-    </tr>
-  </table>
+
+| Trait | Description |
+|:---:|:---:|
+| 🔥 **Passionate** | Clean code & scalable solutions |
+| 📈 **Growth** | Continuous learning & improvement |
+| 🎯 **Goal-Driven** | Top company internships target |
+| 💡 **Problem Solver** | DSA & system design expert |
+| 🤖 **Tech Explorer** | Always learning new tech |
+| 🌱 **Full-Stack Master** | End-to-end development |
+
 </div>
 
 ---
 
 <div align="center">
-  <p><b>⭐ If you find my work interesting, consider giving a star to my repositories! ⭐</b></p>
-  <p><i>Last Updated: December 2025 | Always Evolving, Always Learning 🚀</i></p>
-  <img src="https://media.giphy.com/media/W5eoZHa7XwqVjG0pS8/giphy.gif" alt="Keep Coding" width="80" />
+  <h3>⭐ If you find my work interesting, give my repos a star! ⭐</h3>
+  <p><i>"Code is poetry, and I'm always writing the next verse" 🚀</i></p>
+  <img src="https://media.giphy.com/media/W5eoZHa7XwqVjG0pS8/giphy.gif" alt="Keep Coding" width="100" />
+  <br/>
+  <p><b>Last Updated: December 2025 | Always Evolving 🌟</b></p>
 </div>
