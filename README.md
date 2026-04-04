@@ -1,231 +1,192 @@
-<h1 align="center">✨ <b>Shivam Mishra</b> ✨</h1>
-<p align="center">
-  <b>Full-Stack Developer 🚀 | Data Science Enthusiast 📊 | Coding Passionate 🔥</b>
-</p>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoRKslHVtqgM/giphy.gif" alt="Wave" width="100" />
-  <br/><br/>
-  <a href="https://github.com/shiv9918?tab=repositories">
-    <img src="https://img.shields.io/badge/⭐_GITHUB-View%20All%20Repos-9945FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1f6feb" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/shivam-mishra">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shivammishra01329@gmail.com">
-    <img src="https://img.shields.io/badge/📧_EMAIL-Contact%20Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=shiv9918&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Shivam%20Mishra&fontSize=50&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=57&animation=fadeIn" alt="header" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=980&lines=B.Tech+CSE+Student+at+MMMUT+Gorakhpur;DSA+%7C+Java+%7C+Python+%7C+OOP+%7C+System+Design;React.js+%7C+Node.js+%7C+Flask+%7C+PostgreSQL;Building+Scalable+Full+Stack+Applications;Hackathons+%7C+REST+APIs+%7C+Real+World+Projects" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/shiv9918">
+  <img src="https://img.shields.io/github/followers/shiv9918?style=for-the-badge&logo=github&label=Followers&color=0f766e" alt="GitHub followers" />
+</a>
+<a href="mailto:2024022016@mmmut.ac.in">
+  <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
 ---
 
-## 🎯 About Me
+<h2 align="center">About Me</h2>
 
-<img align="right" width="350" src="https://media.giphy.com/media/QTfW0nVQHKn5QbPP63/giphy.gif" alt="Coding" />
+<p align="center">
+  Software Engineering student pursuing <b>B.Tech in Computer Science and Engineering</b> at
+  <b>Madan Mohan Malaviya University of Technology, Gorakhpur</b>, with a <b>CGPA of 8.28/10</b>.
+  <br/>
+  Focused on <b>DSA, OOP, System Design, full stack development, backend engineering, and scalable applications</b>.
+</p>
 
-```
-🔥 FULL-STACK DEVELOPER
-├─ 📱 Frontend: React, JavaScript, HTML5, CSS3
-├─ 🔧 Backend: Node.js, Python, SQL
-├─ 📊 Data: Power BI, Machine Learning, Analytics
-├─ 🎯 Location: India 🇮🇳 (Noida, Delhi, Lucknow, Remote)
-├─ 📈 GitHub: 231+ Contributions | 6+ Projects
-└─ 💼 Target: Internship @ Top Product-Based Companies
-```
+<div align="center">
 
-✨ **Currently**: Pursuing Computer Science with intensive upskilling  
-🚀 **Seeking**: Full-Stack, Data Science & ML Internships  
-📧 **Email**: [shivammishra01329@gmail.com](mailto:shivammishra01329@gmail.com)  
+| Profile Snapshot | Details |
+|---|---|
+| Degree | B.Tech in CSE |
+| Institute | MMMUT Gorakhpur |
+| Graduation | 2027 |
+| CGPA | 8.28/10 |
+| Core Strengths | DSA, Java, Python, OOP, System Design |
+| Development Stack | React.js, Node.js, Flask, PostgreSQL, REST APIs |
 
-<br clear="right" />
-
----
-
-## 💡 Tech Arsenal
-
-### 🎨 Frontend Mastery
-```
-┌─────────────────────────────────────────────────────┐
-│  HTML5  │  CSS3  │  JavaScript  │  React  │  Responsive  │
-└─────────────────────────────────────────────────────┘
-```
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### ⚙️ Backend & Database
-```
-┌────────────────────────────────────────────────────┐
-│  Python  │  Node.js  │  SQL  │  Git  │  APIs  │
-└────────────────────────────────────────────────────┘
-```
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 📊 Data & Analytics
-```
-┌────────────────────────────────────────────────────────────┐
-│  Power BI  │  Machine Learning  │  Data Viz  │  Statistics  │
-└────────────────────────────────────────────────────────────┘
-```
-![Power BI](https://img.shields.io/badge/Power%20BI-F2CC0C?style=flat-square&logo=power-bi&logoColor=black) ![ML](https://img.shields.io/badge/ML-Regression-blue?style=flat-square&logo=tensorflow) ![DataViz](https://img.shields.io/badge/DataViz-Plotly-green?style=flat-square)
+</div>
 
 ---
 
-## 🌟 Featured Showcase
+<h2 align="center">Education</h2>
+
+<div align="center">
+
+| Qualification | Institute | Score | Duration |
+|---|---|---:|---|
+| B.Tech, Computer Science and Engineering | Madan Mohan Malaviya University of Technology, Gorakhpur | 8.28/10 | 2024–2027 |
+| Diploma, Computer Science and Engineering | Government Polytechnic Premdhar Patti, Pratapgarh | 81.08% | 2021–2024 |
+
+</div>
+
+---
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,react,nodejs,express,flask,postgres,mysql,mongodb,git,github,docker,firebase,vscode" alt="Tech Stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
+<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge" alt="REST APIs" />
+
+</div>
+
+---
+
+<h2 align="center">Engineering Journey</h2>
+
+```mermaid
+flowchart LR
+    A[DSA] --> B[OOP]
+    B --> C[System Design]
+    C --> D[Frontend Development]
+    D --> E[Backend APIs]
+    E --> F[Databases]
+    F --> G[Scalable Full Stack Applications]
+    G --> H[Hackathons and Impactful Projects]
+```
+
+---
+
+<h2 align="center">Experience</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flux-Executive%20Member%20%7C%20Technology-0f766e?style=for-the-badge" alt="Flux role" />
+</div>
+
+<br/>
+
+- **Flux College Society Platform — Executive Member, Technology**  
+  **Aug 2024 – Present | Gorakhpur**  
+  Contributed to the development and maintenance of a production-grade event management platform serving **500 concurrent users**, using **React.js, Node.js, and MongoDB**.
+
+---
+
+<h2 align="center">Featured Projects</h2>
 
 <table>
-<tr>
-  <td width="50%" align="center">
-    <h3>📝 LeetMatrices</h3>
-    <p><b>JavaScript</b></p>
-    <p>💪 Algorithm Optimization</p>
-    <p>⚡ DSA Problems Solved</p>
-    <a href="https://github.com/shiv9918/LeetMatrices">
-      <img src="https://img.shields.io/badge/→_View_Code-00D9FF?style=for-the-badge&logo=github" />
-    </a>
-  </td>
-  <td width="50%" align="center">
-    <h3>🔐 Password-Manager</h3>
-    <p><b>JavaScript</b></p>
-    <p>💪 Secure Encryption</p>
-    <p>⚡ Data Protection</p>
-    <a href="https://github.com/shiv9918/PassWord-Manager">
-      <img src="https://img.shields.io/badge/→_View_Code-00D9FF?style=for-the-badge&logo=github" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="50%" align="center">
-    <h3>📐 Maths-Teacher</h3>
-    <p><b>CSS & Interactive</b></p>
-    <p>💪 Education Platform</p>
-    <p>⚡ Interactive Tools</p>
-    <a href="https://github.com/shiv9918/Maths-Teacher">
-      <img src="https://img.shields.io/badge/→_View_Code-00D9FF?style=for-the-badge&logo=github" />
-    </a>
-  </td>
-  <td width="50%" align="center">
-    <h3>💻 Leetcode-Practices</h3>
-    <p><b>C++</b></p>
-    <p>💪 DSA Solutions</p>
-    <p>⚡ Multi-Approach</p>
-    <a href="https://github.com/shiv9918/Leetcode-Practices">
-      <img src="https://img.shields.io/badge/→_View_Code-00D9FF?style=for-the-badge&logo=github" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" align="center">
-    <h3>🧪 exam-spark</h3>
-    <p><b>TypeScript</b></p>
-    <p>💪 Exam Preparation</p>
-    <p>⚡ Analytics & Insights</p>
-    <a href="https://github.com/shiv9918/exam-spark">
-      <img src="https://img.shields.io/badge/→_View_Code-00D9FF?style=for-the-badge&logo=github" />
-    </a>
-  </td>
-</tr>
+  <tr>
+    <td width="33%">
+      <h3 align="center">Flux</h3>
+      <p align="center"><b>React.js · Node.js · Express.js · MongoDB · JWT</b></p>
+      <p align="center">
+        Built a scalable event management platform handling <b>500 concurrent users</b> with real-time sync and JWT-based authentication.
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Nazar AI</h3>
+      <p align="center"><b>React.js · TypeScript · Node.js · Express.js · Gemini AI Vision · Twilio · JWT · RBAC</b></p>
+      <p align="center">
+        Architected an AI-powered app that reduced complaint resolution time by <b>40%</b> through automated routing.
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Exam Sparks</h3>
+      <p align="center"><b>React.js · Flask · PostgreSQL · SQLAlchemy</b></p>
+      <p align="center">
+        Developed production-grade REST APIs supporting <b>200 simultaneous users</b> with real-time grading and auto-evaluation logic.
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shiv9918&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=shiv9918&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv9918&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shiv9918&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shiv9918&theme=transparent&hide_border=true" alt="GitHub streak" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv9918&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+
 </div>
 
 ---
 
-## 🎖️ Achievements & Milestones
+<h2 align="center">Achievements</h2>
 
 <div align="center">
 
 | Achievement | Details |
-|:---:|:---:|
-| 🔥 **Contributions** | 231+ in the last year |
-| 📚 **Projects** | 6+ public repositories |
-| ✅ **ATS Score** | 90%+ keyword optimized |
-| 🎯 **Applications** | 20+ paid internships |
-| 🏆 **Mastery** | DSA & Full-Stack |
+|---|---|
+| India Innovates 2026 | Presented **Nazar AI** at **Bharat Mandapam, New Delhi**, selected among top national engineering teams |
+| DecodexX National Hackathon | Ranked in the **Top 10 nationally** at **NLDIMSR Mumbai** |
+| Udemy Python Certification 2025 | Completed coursework in **OOP, REST API development, backend frameworks, and scalable system architecture** |
 
 </div>
 
 ---
 
-## 🚀 Learning Journey
-
-<img align="left" width="350" src="https://media.giphy.com/media/kafqKkJf0y1FW/giphy.gif" alt="Learning" />
-
-### Currently Mastering:
-
-🔄 **Advanced DSA** → Problem patterns & optimization  
-🛣️ **Computer Networks** → OSI Model, TCP/IP protocols  
-🔧 **Compiler Design** → LL parsers, LR parsers  
-📊 **Power BI** → Advanced dashboards & analytics  
-🤖 **Machine Learning** → Regression, Classification  
-🏗️ **System Design** → Architecture & scalability  
-💾 **Database Optimization** → Query performance  
-
-<br clear="left" />
-
----
-
-## 🤝 Let's Connect!
+<h2 align="center">Contribution Activity</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/shivam-mishra">
-    <img src="https://img.shields.io/badge/LinkedIn-Shivam_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/shiv9918">
-    <img src="https://img.shields.io/badge/GitHub-shiv9918-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:shivammishra01329@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-shivammishra01329@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/Shiv_9918/">
-    <img src="https://img.shields.io/badge/LeetCode-Shiv__9918-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+
+<img src="https://raw.githubusercontent.com/shiv9918/shiv9918/output/github-snake-dark.svg" alt="Snake animation" />
+
 </div>
 
 ---
 
-## 💬 Open To Opportunities
-
-🎯 **Full-Stack Internships** (React, Node.js, Python)  
-🎯 **Data Science Roles** (ML, Analytics, BI)  
-🎯 **Backend Development** (APIs, Databases)  
-🎯 **Open Source** (Contributing & Learning)  
-🎯 **Mentorship** (From experienced developers)  
-
----
-
-## ⚡ Quick Traits
+<h2 align="center">Current Focus</h2>
 
 <div align="center">
 
-| Trait | Description |
-|:---:|:---:|
-| 🔥 **Passionate** | Clean code & scalable solutions |
-| 📈 **Growth** | Continuous learning & improvement |
-| 🎯 **Goal-Driven** | Top company internships target |
-| 💡 **Problem Solver** | DSA & system design expert |
-| 🤖 **Tech Explorer** | Always learning new tech |
-| 🌱 **Full-Stack Master** | End-to-end development |
+<img src="https://img.shields.io/badge/Scalable_Full_Stack_Apps-0f172a?style=for-the-badge" alt="Scalable apps" />
+<img src="https://img.shields.io/badge/Backend_Architecture-0f766e?style=for-the-badge" alt="Backend architecture" />
+<img src="https://img.shields.io/badge/REST_API_Development-1d4ed8?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/DSA_and_Problem_Solving-7c3aed?style=for-the-badge" alt="DSA" />
+<img src="https://img.shields.io/badge/Hackathon_Grade_Projects-b45309?style=for-the-badge" alt="Hackathons" />
 
 </div>
 
 ---
 
 <div align="center">
-  <h3>⭐ If you find my work interesting, give my repos a star! ⭐</h3>
-  <p><i>"Code is poetry, and I'm always writing the next verse" 🚀</i></p>
-  <img src="https://media.giphy.com/media/W5eoZHa7XwqVjG0pS8/giphy.gif" alt="Keep Coding" width="100" />
-  <br/>
-  <p><b>Last Updated: December 2025 | Always Evolving 🌟</b></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24,30" alt="footer" width="100%" />
+
 </div>
