@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Shivam%20Mishra&fontSize=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20GenAI%20%26%20LLM%20Systems%20Builder&descAlignY=57&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Shivam%20Mishra&fontSize=50&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20LLM%20%26%20GenAI%20Systems%20Builder&descAlignY=57&animation=fadeIn" alt="header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=980&lines=AI%2FML+Engineer+%7C+MMMUT+Gorakhpur+%7C+2027;LangChain+%7C+FastAPI+%7C+RAG+Pipelines+%7C+LLM+Systems;YOLOv8+%7C+Computer+Vision+%7C+Generative+AI;Building+Production+AI+Systems+That+Actually+Ship;%231+of+1%2C200+Teams+%E2%80%94+India+Innovates+2026" alt="Typing SVG" />
 
