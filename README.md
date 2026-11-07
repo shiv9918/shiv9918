@@ -138,6 +138,32 @@ Import a repository to explore its knowledge graph, inspect architecture and hea
 
 </details>
 
+### Contribution activity
+
+<p align="center">
+  <b>A year of building, one contribution at a time.</b><br />
+  A 3D view of my GitHub activity, refreshed every 12 hours.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shiv9918/shiv9918/output/activity-3d.svg" width="100%" alt="Animated rainbow 3D calendar of Shivam's real GitHub contributions, with language and activity breakdowns." />
+</p>
+
+<p align="center"><a href="https://github.com/shiv9918/shiv9918/blob/output/activity-still.svg">View the still chart</a> &nbsp; · &nbsp; <a href="https://github.com/shiv9918?tab=overview">Explore activity on GitHub</a></p>
+
+#### Follow the contribution trail
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiv9918/shiv9918/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiv9918/shiv9918/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/shiv9918/shiv9918/output/github-snake-dark.svg" width="100%" alt="Animated snake tracing the cells of my GitHub contribution calendar." />
+  </picture>
+</p>
+
+<p align="center"><sub>Based on activity visible to GitHub's API. Private activity visibility and refresh timing may affect totals.</sub></p>
+
+
 ---
 
 <p align="center">
