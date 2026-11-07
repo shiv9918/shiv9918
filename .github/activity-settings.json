@@ -1,0 +1,39 @@
+[
+  {
+    "type": "rainbow",
+    "fileName": "activity-3d.svg",
+    "backgroundColor": "#0d1425",
+    "foregroundColor": "#edf2ff",
+    "strongColor": "#61e4d2",
+    "weakColor": "#94a5c4",
+    "radarColor": "#c29aff",
+    "growingAnimation": true,
+    "saturation": "65%",
+    "contribLightness": [
+      "15%",
+      "30%",
+      "40%",
+      "50%",
+      "65%"
+    ],
+    "duration": "12s",
+    "hueRatio": -7
+  },
+  {
+    "type": "normal",
+    "fileName": "activity-still.svg",
+    "backgroundColor": "#0d1425",
+    "foregroundColor": "#edf2ff",
+    "strongColor": "#61e4d2",
+    "weakColor": "#94a5c4",
+    "radarColor": "#c29aff",
+    "growingAnimation": false,
+    "contribColors": [
+      "#172236",
+      "#38517d",
+      "#6376bd",
+      "#a78bfa",
+      "#f083b5"
+    ]
+  }
+]

@@ -1,30 +1,59 @@
-name: Generate Snake
+name: Generate Profile Activity
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
+      - ".github/activity-settings.json"
 
 permissions:
   contents: write
 
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: Generate animated and still 3D contribution calendars
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/activity-settings.json
+
+      - name: Generate contribution snake animations
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
-          github_user_name: shiv9918
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+            dist/github-snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#c4b5fd,#a78bfa,#8b5cf6,#6d28d9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#61e4d2&color_dots=#172236,#38517d,#6376bd,#a78bfa,#f083b5
+
+      - name: Collect and validate generated images
+        run: |
+          test -s profile-3d-contrib/activity-3d.svg
+          test -s profile-3d-contrib/activity-still.svg
+          test -s dist/github-snake.svg
+          test -s dist/github-snake-dark.svg
+          cp profile-3d-contrib/activity-3d.svg dist/activity-3d.svg
+          cp profile-3d-contrib/activity-still.svg dist/activity-still.svg
+
+      - name: Publish activity images to output branch
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Refresh profile contribution visuals"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
