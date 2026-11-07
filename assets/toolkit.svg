@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="690" viewBox="0 0 1080 690" role="img">
+<title>My toolkit</title><desc>Languages, frameworks and tools I use to build.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090f1e"/><stop offset="1" stop-color="#141d33"/></linearGradient>
+<linearGradient id="rainbow"><stop stop-color="#61e4d2"/><stop offset=".25" stop-color="#78baff"/><stop offset=".5" stop-color="#c29aff"/><stop offset=".75" stop-color="#ff83b4"/><stop offset="1" stop-color="#ffba72"/></linearGradient></defs>
+<rect x="1" y="1" width="1078" height="688" rx="24" fill="url(#bg)" stroke="#2b3952"/>
+<path d="M40 1H1040" stroke="url(#rainbow)" stroke-width="2"/>
+
+<text x="40" y="63" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#eaf0ff">My toolkit</text>
+<text x="42" y="96" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#a0b1cd">Languages, frameworks and tools I use to build.</text>
+<ellipse cx="981" cy="70" rx="49" ry="17" fill="none" stroke="#61e4d2" stroke-opacity=".45" transform="rotate(0 981 70)"/>
+<circle cx="1030.00" cy="70.00" r="3.50" fill="#61e4d2" opacity="1.000"/>
+<ellipse cx="981" cy="70" rx="49" ry="17" fill="none" stroke="#78baff" stroke-opacity=".45" transform="rotate(60 981 70)"/>
+<circle cx="981.85" cy="100.08" r="3.50" fill="#78baff" opacity="1.000"/>
+<ellipse cx="981" cy="70" rx="49" ry="17" fill="none" stroke="#c29aff" stroke-opacity=".45" transform="rotate(120 981 70)"/>
+<circle cx="977.81" cy="44.61" r="3.50" fill="#c29aff" opacity="1.000"/>
+<circle cx="981.00" cy="70.00" r="5.00" fill="#e5eeff" opacity="1.000"/>
+<rect x="35" y="131" width="1010" height="96" rx="15" fill="#050c18" stroke="#050c18" opacity="1.000"/>
+<rect x="35" y="126" width="1010" height="96" rx="15" fill="#111c2f" stroke="#2c3a53" opacity="1.000"/>
+<rect x="35" y="142" width="3" height="64" rx="1" fill="#61e4d2" stroke="#61e4d2" opacity="1.000"/>
+<circle cx="79" cy="174" r="25" fill="#16243b" stroke="#61e4d2" stroke-width="1.5"/>
+<circle cx="79" cy="174" r="30.50" fill="none" stroke="#61e4d2" opacity=".2"/>
+<text x="63" y="180" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#61e4d2">&lt;/&gt;</text>
+<text x="119" y="181" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#eaf0ff">Languages</text>
+<rect x="362" y="158" width="90" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="377" y="180" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#61e4d2">Python</text>
+<rect x="461" y="158" width="78" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="476" y="180" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#61e4d2">C++</text>
+<rect x="548" y="158" width="78" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="563" y="180" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#61e4d2">Java</text>
+<rect x="635" y="158" width="130" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="650" y="180" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#61e4d2">JavaScript</text>
+<rect x="774" y="158" width="130" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="789" y="180" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#61e4d2">TypeScript</text>
+<rect x="913" y="158" width="78" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="928" y="180" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#61e4d2">SQL</text>
+<path d="M54.00,126.00L60.00,126.00" fill="none" stroke="#61e4d2" stroke-width="2" opacity="0.800"/>
+<circle cx="60.00" cy="126.00" r="3.00" fill="#61e4d2" opacity="1.000"/>
+<rect x="35" y="239" width="1010" height="96" rx="15" fill="#050c18" stroke="#050c18" opacity="1.000"/>
+<rect x="35" y="234" width="1010" height="96" rx="15" fill="#111c2f" stroke="#2c3a53" opacity="1.000"/>
+<rect x="35" y="250" width="3" height="64" rx="1" fill="#78baff" stroke="#78baff" opacity="1.000"/>
+<circle cx="79" cy="282" r="25" fill="#16243b" stroke="#78baff" stroke-width="1.5"/>
+<circle cx="79" cy="282" r="29.42" fill="none" stroke="#78baff" opacity=".2"/>
+<text x="63" y="288" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#78baff">{ }</text>
+<text x="119" y="278" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#eaf0ff">Application</text>
+<text x="119" y="303" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#eaf0ff">development</text>
+<rect x="362" y="266" width="80" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="377" y="288" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#78baff">React</text>
+<rect x="451" y="266" width="100" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="466" y="288" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#78baff">Node.js</text>
+<rect x="560" y="266" width="100" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="575" y="288" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#78baff">FastAPI</text>
+<rect x="669" y="266" width="80" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="684" y="288" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#78baff">Flask</text>
+<rect x="758" y="266" width="120" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="773" y="288" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#78baff">REST APIs</text>
+<path d="M180.65,234.00L220.65,234.00" fill="none" stroke="#78baff" stroke-width="2" opacity="0.800"/>
+<circle cx="220.65" cy="234.00" r="3.00" fill="#78baff" opacity="1.000"/>
+<rect x="35" y="347" width="1010" height="96" rx="15" fill="#050c18" stroke="#050c18" opacity="1.000"/>
+<rect x="35" y="342" width="1010" height="96" rx="15" fill="#111c2f" stroke="#2c3a53" opacity="1.000"/>
+<rect x="35" y="358" width="3" height="64" rx="1" fill="#c29aff" stroke="#c29aff" opacity="1.000"/>
+<circle cx="79" cy="390" r="25" fill="#16243b" stroke="#c29aff" stroke-width="1.5"/>
+<circle cx="79" cy="390" r="29.00" fill="none" stroke="#c29aff" opacity=".2"/>
+<text x="66" y="396" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#c29aff">AI</text>
+<text x="119" y="397" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#eaf0ff">AI &amp; data</text>
+<rect x="362" y="358" width="120" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="377" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#c29aff">LangChain</text>
+<rect x="491" y="358" width="120" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="506" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#c29aff">LangGraph</text>
+<rect x="620" y="358" width="78" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="635" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#c29aff">RAG</text>
+<rect x="707" y="358" width="78" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="722" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#c29aff">Groq</text>
+<rect x="794" y="358" width="90" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="809" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#c29aff">Gemini</text>
+<rect x="893" y="358" width="90" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="908" y="380" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#c29aff">Pandas</text>
+<rect x="362" y="396" width="80" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="377" y="418" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#c29aff">NumPy</text>
+<path d="M341.30,342.00L381.30,342.00" fill="none" stroke="#c29aff" stroke-width="2" opacity="0.800"/>
+<circle cx="381.30" cy="342.00" r="3.00" fill="#c29aff" opacity="1.000"/>
+<rect x="35" y="455" width="1010" height="96" rx="15" fill="#050c18" stroke="#050c18" opacity="1.000"/>
+<rect x="35" y="450" width="1010" height="96" rx="15" fill="#111c2f" stroke="#2c3a53" opacity="1.000"/>
+<rect x="35" y="466" width="3" height="64" rx="1" fill="#ffba72" stroke="#ffba72" opacity="1.000"/>
+<circle cx="79" cy="498" r="25" fill="#16243b" stroke="#ffba72" stroke-width="1.5"/>
+<circle cx="79" cy="498" r="29.49" fill="none" stroke="#ffba72" opacity=".2"/>
+<text x="63" y="504" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#ffba72">DB</text>
+<text x="119" y="494" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#eaf0ff">Databases &amp;</text>
+<text x="119" y="519" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#eaf0ff">retrieval</text>
+<rect x="362" y="482" width="130" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="377" y="504" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#ffba72">PostgreSQL</text>
+<rect x="501" y="482" width="80" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="516" y="504" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#ffba72">MySQL</text>
+<rect x="590" y="482" width="100" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="605" y="504" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#ffba72">MongoDB</text>
+<rect x="699" y="482" width="110" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="714" y="504" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#ffba72">ChromaDB</text>
+<rect x="818" y="482" width="80" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="833" y="504" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#ffba72">FAISS</text>
+<path d="M501.95,450.00L541.95,450.00" fill="none" stroke="#ffba72" stroke-width="2" opacity="0.800"/>
+<circle cx="541.95" cy="450.00" r="3.00" fill="#ffba72" opacity="1.000"/>
+<rect x="35" y="563" width="1010" height="96" rx="15" fill="#050c18" stroke="#050c18" opacity="1.000"/>
+<rect x="35" y="558" width="1010" height="96" rx="15" fill="#111c2f" stroke="#2c3a53" opacity="1.000"/>
+<rect x="35" y="574" width="3" height="64" rx="1" fill="#ff83b4" stroke="#ff83b4" opacity="1.000"/>
+<circle cx="79" cy="606" r="25" fill="#16243b" stroke="#ff83b4" stroke-width="1.5"/>
+<circle cx="79" cy="606" r="30.59" fill="none" stroke="#ff83b4" opacity=".2"/>
+<text x="63" y="612" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#ff83b4">$_</text>
+<text x="119" y="613" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#eaf0ff">Developer tools</text>
+<rect x="362" y="590" width="78" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="377" y="612" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#ff83b4">Git</text>
+<rect x="449" y="590" width="90" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="464" y="612" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#ff83b4">GitHub</text>
+<rect x="548" y="590" width="90" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="563" y="612" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#ff83b4">Docker</text>
+<rect x="647" y="590" width="80" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="662" y="612" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#ff83b4">Linux</text>
+<rect x="736" y="590" width="100" height="31" rx="7" fill="#18253b" stroke="#344863" opacity="1.000"/>
+<text x="751" y="612" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#ff83b4">VS Code</text>
+<path d="M662.60,558.00L702.60,558.00" fill="none" stroke="#ff83b4" stroke-width="2" opacity="0.800"/>
+<circle cx="702.60" cy="558.00" r="3.00" fill="#ff83b4" opacity="1.000"/>
+</svg>

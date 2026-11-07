@@ -98,6 +98,15 @@ Import a repository to explore its knowledge graph, inspect architecture and hea
 
 ### My toolkit
 
+<p align="center">
+  <img src="./assets/toolkit.gif" width="100%" alt="My toolkit: colorful animated panels for languages, application development, AI and data, databases and retrieval, and developer tools. Full skill list below." />
+</p>
+
+<p align="center"><a href="./assets/toolkit.svg">View a still version</a></p>
+
+<details>
+<summary><b>Explore my skills — text version</b></summary>
+
 | Area | Technologies |
 | :--- | :--- |
 | **Languages** | Python · C++ · Java · JavaScript · TypeScript · SQL |
@@ -106,7 +115,18 @@ Import a repository to explore its knowledge graph, inspect architecture and hea
 | **Databases & retrieval** | PostgreSQL · MySQL · MongoDB · ChromaDB · FAISS |
 | **Developer tools** | Git · GitHub · Docker · Linux · VS Code |
 
+</details>
+
 ### Beyond the code
+
+<p align="center">
+  <img src="./assets/highlights.gif" width="100%" alt="Animated achievements: India Innovates 2026 national finalist; DecodexX top 10 among 250 teams; 400+ LeetCode problems, peak rating 1512; FLUX President, community of 500+ members; Cisco and ISRO-IIRS certifications. Full details below." />
+</p>
+
+<p align="center"><a href="./assets/highlights.svg">View a still version</a></p>
+
+<details>
+<summary><b>Explore my achievements — text version</b></summary>
 
 | Highlight | Details |
 | :--- | :--- |
@@ -115,6 +135,8 @@ Import a repository to explore its knowledge graph, inspect architecture and hea
 | **Problem solving** | 400+ LeetCode problems solved · Peak contest rating: 1512 |
 | **Community leadership** | President, FLUX · Technical community of 500+ members |
 | **Learning** | Cisco Data Science certification · ISRO-IIRS Certificate of Merit |
+
+</details>
 
 ---
 
