@@ -33,6 +33,8 @@ I'm **Shivam**, a developer at **MMMUT Gorakhpur**, graduating in **2027**. My w
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/shiv9918/NazarAI"><img src="https://raw.githubusercontent.com/shiv9918/NazarAI/main/docs/readme-assets/hero.gif" width="100%" alt="NazarAI: an isometric city with a rotating scan and pulsing civic issue markers." /></a>
+
 #### 01 / NazarAI
 
 **AI for better civic services**
@@ -45,6 +47,8 @@ Report civic issues with photos and locations. AI classification, department rou
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/shiv9918/Auto-Data-Analyst"><img src="https://raw.githubusercontent.com/shiv9918/Auto-Data-Analyst/main/docs/readme-assets/hero.gif" width="100%" alt="Auto Data Analyst: animated isometric data columns and a flowing analysis curve." /></a>
 
 #### 02 / Auto Data Analyst
 
@@ -61,6 +65,8 @@ A modular analysis workflow for data cleaning, exploratory analysis, visualizati
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/shiv9918/Chat_With_Database"><img src="https://raw.githubusercontent.com/shiv9918/Chat_With_Database/main/docs/readme-assets/hero.gif" width="100%" alt="Chat with Database: a layered database with animated query and result particles." /></a>
+
 #### 03 / Chat with Database
 
 **Ask questions. Explore structured data.**
@@ -74,15 +80,17 @@ A conversational interface for databases and uploaded CSV or Excel files, with s
 </td>
 <td width="50%" valign="top">
 
-#### 04 / FLUX
+<a href="https://github.com/shiv9918/Archimind"><img src="https://raw.githubusercontent.com/shiv9918/Archimind/main/docs/readme-assets/hero.gif" width="100%" alt="ArchiMind: a rotating 3D knowledge graph connecting code nodes." /></a>
 
-**Technology for a campus community**
+#### 04 / ArchiMind
 
-Web development for the FLUX technical society, connecting my interest in building products with community leadership and collaboration.
+**Understand a codebase as a connected system**
 
-`Web Development` `Community` `Team Leadership`
+Import a repository to explore its knowledge graph, inspect architecture and health scores, and ask an AI copilot questions grounded in the code.
 
-[Explore repository →](https://github.com/shiv9918/flux-website)
+`Next.js` `TypeScript` `FastAPI` `NetworkX` `Qdrant` `Groq`
+
+[Explore repository →](https://github.com/shiv9918/Archimind)
 
 </td>
 </tr>
